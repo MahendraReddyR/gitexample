@@ -6,7 +6,7 @@ project---->right click---->team--->pull, After pull the files then you can go f
 
 project-->right click--->team--->commit--->here two pop-ups are present 1.Commit message 2.Files
 
-1.Commit Message delete
+1.Commit Message delet
 
 Author:spuchakayala <spuchakayala@blackberry.com>
 Committer:spuchakayala <spuchakayala@blackberry.com>
